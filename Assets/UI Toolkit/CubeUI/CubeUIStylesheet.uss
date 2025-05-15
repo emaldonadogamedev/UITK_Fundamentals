@@ -16,3 +16,15 @@
 .button:hover {
     background-color: rgb(88, 88, 88);
 }
+
+.buttonFoldout {
+    border-left-color: rgb(41, 231, 31);
+    border-right-color: rgb(41, 231, 31);
+    border-top-color: rgb(41, 231, 31);
+    border-bottom-color: rgb(41, 231, 31);
+    border-top-width: 3px;
+    border-right-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    opacity: 1;
+}
